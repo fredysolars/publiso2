@@ -1,0 +1,62 @@
+html {
+  font-size: 14px;
+}
+header{
+text-align: center;
+align-items: center;
+}
+footer{
+  text-align: center;
+  align-items: center;
+  }
+  #mio{
+color: blue;
+text-align: center;
+  }
+  a{
+    color: blue;
+    text-decoration: burlywood;
+    text-align: center;
+  }
+  h4{
+    text-align: center;
+  }
+  .qs{
+    text-align: justify;
+    color:rgb(0, 99, 138);
+    font-size: 20px;
+  }
+
+.enlaces-registro{
+  float: right;
+  position: relative;
+  top: 14px;
+  right: 18px;
+}
+h5{
+  color: rgb(139, 78, 78);
+}
+
+form.buscador{
+  padding: 0;
+  text-align: center;
+}
+
+.centrado{
+  text-align: center;
+  align-items: center;
+}
+
+img.avatar{
+max-height: 15px;
+}
+img.icono{
+  max-height: 20px;
+  }
+
+img.foto{
+  align-items: center;
+  max-width: 20vw;
+  border-radius: 10px;
+  }
+
